@@ -1,3 +1,19 @@
+# Data
+*.csv
+*.svg
+*.pdf
+*.png
+*.mat
+algo1_output/
+algo2_output/
+
+# Other
+LICENSE
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+.gitignore
+
 # Prerequisites
 *.d
 
